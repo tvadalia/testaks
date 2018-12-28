@@ -2,7 +2,7 @@
 export resourceGroup=myResourceGroup$RANDOM
 virtualMachine=myVM
 adminUser=azureuser
-pathToKubeConfig="C:\Users\CLOUDTHAT\.kube\config"
+pathToKubeConfig="C:\Users\tvadalia\.kube\config"
 
 if [ -f $pathToKubeConfig ]
 then
